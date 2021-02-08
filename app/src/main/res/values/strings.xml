@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Music Player App</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="songs">Songs</string>
+    <string name="song1">Lose Yourself</string>
+    <string name="song2">Till I collapse</string>
+    <string name="song3">\" Ambition \"</string>
+    <string name="song4">Dear Mama</string>
+    <string name="song5">Juicy</string>
+    <string name="song6">Jesus Walks</string>
+    <string name="song7">\"Live Your Life \"</string>
+    <string name="song8">\" I\'ll Be Missing You \"</string>
+    <string name="song9">\"See You Again \"</string>
+    <string name="song10">All The Stars</string>
+    <string name="song11">The Bigger Picture</string>
+    <string name="song12">\"Blessings \"</string>
+    <string name="song13">God\'s plan</string>
+    <string name="artist1">Eminem</string>
+    <string name="artist2">Eminem</string>
+    <string name="artist3"><![CDATA[Wale feat. Meek Mill & Rick Ross]]></string>
+    <string name="artist4">2Pac</string>
+    <string name="artist5">The Notorious B.I.G</string>
+    <string name="artist6">Kanye West</string>
+    <string name="artist7">\"T.I - (Feat. Rihanna) \"</string>
+    <string name="artist8"><![CDATA[\"Puff Daddy [feat. Faith Evans & 112] \"]]></string>
+    <string name="artist9">\"Wiz Khalifa -  ft. Charlie Puth \"</string>
+    <string name="artist10">Kendrick Lamar, SZA</string>
+    <string name="artist11">Lil Baby</string>
+    <string name="artist12">\"Big Sean - ft. Drake, Kanye West  \"</string>
+    <string name="artist13">Drake</string>
+</resources>

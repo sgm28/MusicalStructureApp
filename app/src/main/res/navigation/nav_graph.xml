@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph"
+    app:startDestination="@id/mainActivity">
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.vogella.android.musicplayerapp.MainActivity"
+        android:label="MainActivity" />
+    <activity
+        android:id="@+id/nowPlayingActivity"
+        android:name="com.vogella.android.musicplayerapp.NowPlayingActivity"
+        android:label="NowPlayingActivity" >
+        <action
+            android:id="@+id/action_nowPlayingActivity_to_mainActivity"
+            app:destination="@id/mainActivity" />
+    </activity>
+</navigation>
