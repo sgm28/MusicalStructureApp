@@ -1,4 +1,4 @@
-# MusicalStructureApp
+# Musical Structure App
 
 Musical Structure App is an Android Application that displays my favorite motivational songs in a horizontal list. 
 
