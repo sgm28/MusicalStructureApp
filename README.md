@@ -4,7 +4,12 @@ Musical Structure App is an Android Application that displays my favorite motiva
 
 All songs in the list belong to the artist no copyright intended.  
 
-The songs will not play when you click on them! This was a project given to me to complete by Udacity's Android Basic Nanodegree program. 
+The songs will not play when you click on them!<br>
+
+This was a project given to me to complete by Udacity's Android Basic Nanodegree program. 
+
+
+<img src='https://github.com/sgm28/MusicalStructureApp/blob/master/gif/MusicalStructureApp.gif' title='MusicalStructureApp Walkthrough' width=300 alt='Musical Structure Walkthrough' />
 https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 
 Instruction on Running the program:
