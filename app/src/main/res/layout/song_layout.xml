@@ -20,7 +20,9 @@
         android:layout_marginRight="8dp"
         android:layout_weight="1"
         android:text="Song"
-        app:fontFamily="@font/coming_soon" />
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:fontFamily="@font/heebo" />
 
     <TextView
         android:id="@+id/Artist"
